@@ -12,7 +12,8 @@ print("My name is", name)
 # Do some math
 a = 5
 b = 3
-sum = a + b
+c = 6
+sum = a + b + c 
 
 # Print the result
 print("The sum of", a, "and", b, "is", sum)
